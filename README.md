@@ -6,7 +6,7 @@
 
 ## Description
 
-The Flamingo Message Exporter plugin is designed to export message content from the Flamingo plugin to CSV files on your WordPress server. This allows you to keep track of your form submissions and analyze them externally.
+The Flamingo Message Exporter WordPress plugin is designed to export message content from the Flamingo plugin to CSV files on your server.
 
 ## Features
 
@@ -26,14 +26,6 @@ The Flamingo Message Exporter plugin is designed to export message content from 
 2. Navigate to the "Exportar Mensagens" (Export Messages) page in your WordPress admin panel.
 3. Copy the links to the files for the lists you want to export.
 4. Click the "Exportar" (Export) button to initiate the export process. You can also set up automatic exports using WordPress cron by waiting for the scheduled export.
-
-### Exporting Individual Form Messages
-
-You can also export messages for individual forms by following these steps:
-
-1. After exporting, you will see a list of URLs corresponding to the exported CSV files.
-2. Click on the link to copy the specific form's link that you want to export.
-3. Paste the link into the CRM that you want to integrate.
 
 ### Customizing the Export Schedule
 
